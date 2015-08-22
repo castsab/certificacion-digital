@@ -1287,9 +1287,7 @@ function mPDF($mode='',$format='A4',$default_font_size=0,$default_font='',$mgl=1
 
 
 function _setPageSize($format, &$orientation) {
-    $orientation = 'Landscape';
-    echo 'orientation -> '.$orientation;
-	//Page format
+        //Page format
 	if(is_string($format))
 	{
 		if ($format=='') { $format = 'A4'; }

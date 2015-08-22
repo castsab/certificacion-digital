@@ -6,12 +6,12 @@ ol{margin:0;padding:0}
 .c21{vertical-align:baseline;font-size:20pt;font-family:"Arial";font-weight:bold}
 .c10{vertical-align:baseline;font-size:20pt;font-family:"Arial";font-weight:normal}
 .c1{vertical-align:baseline;font-size:10pt;font-family:"Arial";font-weight:normal}
-.c11{vertical-align:baseline;font-size:36pt;font-family:"Corsiva";font-weight:bold}
-.c13{orphans:2;widows:2;text-align:left;direction:ltr}
+.c11{vertical-align:baseline;font-size:30pt;font-family:"Corsiva";font-weight:bold}
+.c13{orphans:2;widows:2;text-align:center;direction:ltr}
 .c7{vertical-align:baseline;font-size:12pt;font-family:"Arial";font-weight:normal}
 .c8{vertical-align:baseline;font-size:10pt;font-family:"Goudy Old Style";font-weight:bold}
 .c3{orphans:2;widows:2;text-align:center;direction:ltr}
-.c12{vertical-align:baseline;font-size:16pt;font-family:"Arial";font-weight:bold}
+.c12{vertical-align:baseline;font-size:14pt;font-family:"Arial";font-weight:bold}
 .c9{vertical-align:baseline;font-family:"Goudy Old Style";font-weight:bold}
 .c26{vertical-align:baseline;font-size:10pt;font-family:"Arial"}
 .c25{vertical-align:baseline;font-size:36pt;font-family:"Corsiva"}
@@ -19,9 +19,13 @@ ol{margin:0;padding:0}
 .c4{vertical-align:baseline;font-size:14pt;font-family:"Arial"}
 .c14{background-color:#ffffff;max-width:621.9pt;padding:85pt 85pt 85pt 85pt}
 .c23{vertical-align:baseline;font-size:16pt;font-family:"Tahoma"}
-.c17{text-align:left;margin-right:-8.1pt}.c19{text-align:center;margin-right:-8.1pt}
-.c27{vertical-align:baseline;font-family:"Arial"}.c20{vertical-align:baseline;font-family:"Goudy Old Style"}
-.c16{height:12pt}.c22{font-weight:bold}.c0{font-size:11pt}
+.c17{text-align:left;margin-right:-8.1pt}
+.c19{text-align:center;margin-right:-8.1pt}
+.c27{vertical-align:baseline;font-family:"Arial"}
+.c20{vertical-align:baseline;font-family:"Goudy Old Style"}
+.c16{height:12pt}
+.c22{font-weight:bold}
+.c0{font-size:11pt}
 .c15{font-weight:normal}
 .title{padding-top:24pt;color:#000000;font-weight:bold;font-size:36pt;padding-bottom:6pt;font-family:"Times New Roman";line-height:1.0;page-break-after:avoid;orphans:2;widows:2;text-align:left}
 .subtitle{padding-top:18pt;color:#666666;font-size:24pt;padding-bottom:4pt;font-family:"Georgia";line-height:1.0;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}

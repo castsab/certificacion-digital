@@ -15,6 +15,7 @@ $html = $generateCertification->BuildFormatCertification($name,$numberDocument);
 $mpdf->WriteHTML($stylesheet,1);
 $mpdf->WriteHTML($html);
 
-$mpdf->Output('certificacion-digital.pdf');
+$nameDocument = "certificacion-digital.pdf";
+$mpdf->Output($nameDocument,'D');
 exit;
 ?>

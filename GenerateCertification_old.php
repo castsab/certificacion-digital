@@ -26,6 +26,7 @@ class GenerateCertification {
                 <p class="c3"><span class="c4">Realizado del 27 de abril al 15 de junio de 2013. Comprendi&oacute; tres (3) sesiones presenciales y acompa&ntilde;amiento institucional in situ.</span></p>
                 <p class="c3 c16"><span class="c4 c15"></span></p>
                 <p class="c3 c16"><span class="c7"></span></p>
+                <p class="c3"><span class="c27">Dado en Bogot&aacute; D.C., a &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; los 15 d&iacute;as del mes de Junio de 2013</span></p>
                 <p class="c3 c16"><span></span></p>
                 <p class="c3 c16"><span></span></p>
                 <p class="c3 c16"><span></span></p>
